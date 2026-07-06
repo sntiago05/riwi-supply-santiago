@@ -87,6 +87,8 @@ The API exposes reusable SQL reports including:
 - Top 5 Most Expensive Products
 - Low Stock Products
 
+## 🗂️ ERM (Entity Relation Model)
+![Riwi Supply Banner](MER.png)
 ## 🛠️ Installation Guide
 
 ### Prerequisites
